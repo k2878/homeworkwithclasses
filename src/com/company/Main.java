@@ -8,5 +8,7 @@ public class Main {
         question1.bioData();
         q2 question2 = new q2();
         question2.faceMaker();
+        q3 question3 = new q3();
+        question3.inLetters();
     }
 }
